@@ -1,0 +1,14 @@
+{
+  "telegram_bot_token": "8258666811:AAEyLJzM6IB-JJy0wDhhPXS_hzc4bKVpiFk",
+  "default_platform": "instagram_reels",
+  "bad_words": [
+    "работа",
+    "зарплата",
+    "подработка",
+    "до N в час",
+    "спецодежда",
+    "официальная работа"
+  ],
+  "partners_dir": "partners",
+  "log_level": "INFO"
+}
